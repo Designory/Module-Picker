@@ -1,0 +1,27 @@
+{
+  "name": "npm-module-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "list": "node lib/entry.js"
+  },
+  "bin": {
+    "listmods": "lib/entry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Designory/Module-Picker.git"
+  },
+  "author": "Kevin Middlesworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Designory/Module-Picker/issues"
+  },
+  "homepage": "https://github.com/Designory/Module-Picker#readme",
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "shelljs": "^0.7.4"
+  }
+}
