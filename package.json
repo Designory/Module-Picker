@@ -1,7 +1,7 @@
 {
-  "name": "npm-module-picker",
-  "version": "1.0.0",
-  "description": "",
+  "name": "module-picker",
+  "version": "1.0.1",
+  "description": "Select from vaiou",
   "main": "lib/entry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Designory/Module-Picker#readme",
   "dependencies": {
     "inquirer": "^1.1.2",
+    "lodash": "^4.15.0",
     "shelljs": "^0.7.4"
   }
 }
