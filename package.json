@@ -1,7 +1,7 @@
 {
   "name": "module-picker",
-  "version": "1.0.1",
-  "description": "Select from vaiou",
+  "version": "1.0.2",
+  "description": "a micro CLI to select from various modules listed in package.json",
   "main": "lib/entry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
